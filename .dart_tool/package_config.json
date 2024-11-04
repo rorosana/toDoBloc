@@ -158,10 +158,10 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2024-10-13T18:49:37.718460Z",
+  "generated": "2024-11-04T00:44:28.526615Z",
   "generator": "pub",
-  "generatorVersion": "3.5.3",
+  "generatorVersion": "3.5.4",
   "flutterRoot": "file:///C:/Users/R095947/fvm/versions/stable",
-  "flutterVersion": "3.24.3",
+  "flutterVersion": "3.24.4",
   "pubCache": "file:///C:/Users/R095947/AppData/Local/Pub/Cache"
 }
